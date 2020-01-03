@@ -2,9 +2,4 @@ test git
 master add
 3433443
 about
-about 1
-about3
-about2 input
-test
-8777878
-9889890
+
